@@ -1,4 +1,3 @@
-
 INPUT "Enter a number; A"
 IF A MOD 3 = 0
   print "True"
