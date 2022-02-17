@@ -3,4 +3,4 @@ IF A MOD 3 = 0
   print "True"
 ELSE
   print "False"
-END  
+END
