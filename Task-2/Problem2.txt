@@ -1,0 +1,20 @@
+INPUT "Enter a number; N"
+IF N > 2
+count = 2
+a = 0 
+b = 1
+  FOR t = a+b
+      a = b
+      b = 1
+     count = count + 1
+   IF count = N 
+    Print t
+   ELSE
+   END IF
+  END FOR
+ELSE
+ IF N = 1
+ Print 0
+ ELSE 
+ Print 1
+END
